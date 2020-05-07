@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../UiFront/.idea/UiFront.iml" filepath="$PROJECT_DIR$/../UiFront/.idea/UiFront.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../wukong-platform-ui/.idea/wukong-platform-ui.iml" filepath="$PROJECT_DIR$/../wukong-platform-ui/.idea/wukong-platform-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/wukong_platform_api.iml" filepath="$PROJECT_DIR$/.idea/wukong_platform_api.iml" />
+    </modules>
+  </component>
+</project>
